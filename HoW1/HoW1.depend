@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614909928 source:c:\users\budwe\documents\ads\howi\projeto\how1\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
